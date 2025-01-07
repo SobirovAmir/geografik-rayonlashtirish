@@ -1,18 +1,23 @@
+* {
+  font-family: "Cinzel", serif !important;
+}
 .materials-container {
   color: #fff;
   padding: 50px 20px;
-  min-height: calc(100vh - 50px);
+  min-height: calc(100vh - 60px);
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   background: url("/hero-bg.webp") no-repeat center center/cover;
   background-attachment: fixed;
+  background: rgba(0, 0, 0, 0.4); /* Полупрозрачный фон */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* Легкая тень */
+  font-family: "Cinzel", serif !important;
 }
 
 .title {
   font-size: 3rem;
-  font-family: "Poppins", sans-serif !important;
   color: #f39c12;
   text-transform: uppercase;
   margin-bottom: 40px;

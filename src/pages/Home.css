@@ -1,12 +1,12 @@
 /* General Container */
 .home-container {
-  font-family: "Poppins", sans-serif !important;
   background-color: #f0f4f7; /* Светлый фон */
   color: #333333;
   text-align: center;
   padding: 0;
   margin: 0;
   overflow-y: auto;
+  font-family: "Cinzel", serif;
 }
 
 /* Hero Section */
@@ -21,6 +21,7 @@
   color: white;
   position: relative;
   z-index: 1;
+  padding: 0 15px;
 }
 
 .hero::before {
@@ -30,10 +31,11 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.5); /* Полупрозрачный темный слой */
+  background: rgba(0, 0, 0, 0.5);
 }
 
 .hero-title {
+  margin-top: 20px;
   font-size: 3rem;
   font-family: "Cinzel", serif; /* Стильный шрифт для исторических тем */
   z-index: 1;
@@ -42,7 +44,6 @@
 
 .hero-subtitle {
   font-size: 1.5rem;
-  font-family: "Poppins", sans-serif;
   z-index: 1;
   animation: fadeInUp 1.5s;
 }
@@ -54,23 +55,66 @@
   gap: 20px;
   margin-top: -50px;
   padding: 20px;
+  background: #00000030;
 }
 
 .nav-card {
-  background: #7a8d84; /* Цвет, ассоциирующийся с природой */
+  background: rgba(
+    0,
+    32,
+    64,
+    0.8
+  ); /* Темный синий с полупрозрачностью, чтобы соответствовать футеру и хедеру */
   color: #fff;
   border-radius: 12px;
   padding: 40px 20px;
   width: 280px;
   text-decoration: none;
-  transition: transform 0.3s, background-color 0.3s;
-  animation: fadeInDown 1.5s;
+  transition: transform 0.3s ease, background-color 0.3s ease,
+    box-shadow 0.3s ease;
+  animation: fadeInDown 1.5s ease-out;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Тень для объема */
+  margin-top: 20px;
 }
 
 .nav-card:hover {
-  transform: translateY(-10px);
-  transition: 0.5s;
-  background-color: #80c99e; /* Зеленоватый оттенок */
+  transform: translateY(-15px);
+  background-color: rgba(
+    0,
+    51,
+    102,
+    0.9
+  ); /* Более темный синий при наведении */
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); /* Усиленная тень при наведении */
+}
+
+.nav-card h3 {
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+  letter-spacing: 1px;
+  color: #ffffff;
+}
+
+.nav-card p {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.nav-card .btn {
+  display: inline-block;
+  padding: 10px 20px;
+  margin-top: 20px;
+  background-color: #00aaff; /* Акцент на кнопке */
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.nav-card .btn:hover {
+  background-color: #0099cc; /* Тёмно-синий при наведении */
+  transform: translateY(-5px);
 }
 
 /* Info Section */
@@ -79,13 +123,20 @@
   align-items: center;
   justify-content: center;
   padding: 50px 10%;
+  background: #00000030;
 }
 
 .info-content {
   max-width: 500px;
   text-align: left;
 }
-
+.info-content p {
+  font-size: 20px;
+}
+.info-content h2 {
+  font-size: 28px;
+  margin-bottom: 6px;
+}
 .info-image {
   width: 300px;
   border-radius: 12px;
@@ -170,7 +221,6 @@
   }
 }
 
-/* Small tablet and mobile (max-width: 768px) */
 @media (max-width: 800px) {
   .hero {
     height: 45vh;
@@ -191,7 +241,6 @@
     flex-direction: column;
     align-items: center;
     margin: 0 auto;
-    margin-top: 10px;
   }
 
   .nav-card {

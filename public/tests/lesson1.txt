@@ -1,50 +1,50 @@
-?Geografiya o’lkashunosligining asosiy obyekti bo’lib nimalar xizmat qiladi?
-+ Tabiat, aholi, xo’jalik, tarix, san’at
-- Tabiat obyektlari, Yer, Quyosh
-- O’lka iqtisodiy sharoiti, qishloq xo’jalik, tibbiyot
-- O’lka xo’jaligi, tabiati, iqtisodiy sharoit
-?Geografik o’lkashunoslik asosan nechta yirik tarmoqdan iborat?
-+ 2
-- 5
-- 3
-- 4
-?Eng yirik tabiiy hududiy kompleks bu?
-+ Geografik qobiq
-- Landshaft
-- O’lka
-- Biosfera
-?Aniq tabiiy chegaraga, bir xil geologik, geomorfologik asosga, bir xil gidrotermik sharoitga, tuproq va o’simlik qoplamiga ega bo’lgan hudud ….?
-+ Geografik landshaft
-- O’lka
-- Tabiat zona
-- Provintsiya
-?Iqtisodiy o’lkashunoslikning ob’ekti nima?
-+ O’lka aholisi, xo’jaligi, shaharlari, qishloqlari
-- O’lka orografiyasi, o’lka landshaftlari, qishloqlar
-- Daryolar, shaharlar, ko’llar
-- O’lka qishloq xo’jaligi, o’lka landshaftlari, shaharlar
-?“Qadimgi xalqlardan qolgan yodgorliklar” asari kimga tegishli?
-+ Abu Rayhon Al-Beruniy
-- Zaxriddin Muxammad Bobur
-- Al-Xorazmiy
-- Ibn Sino
-?O’lka aholisini, shahar va qishloqlarini, ishlab chiqarish korxonalarini, transport tizimini va tashqi iqtisodiy aloqalarini o’lkashunoslikni qaysi tarmog’i o’rganadi?
-+ Iqtisodiy o’lkashunoslik
-- Tabiiy o’lkashunoslik
-- Tarixiy o’lkashunoslik
-- San’at o’lkashunoslik
-?San’atshunoslik o’lkashunosligining maqsadi nima?
-+ O’lkaning xalq ijodini, san’at asarlarini o’rganish
-- O’lkani tarixiy joylarini, xo’jaligini o’rganish
-- O’lkani sanoat ishlab chiqarishini, san’at asarlarini o’rganish
-- O’lkani xalq ijodini, tabiatini o’rganish
-?Geografik landshaftning o’lkashunoslik maqsadlarida o’rganilish qanday tartibda amalga oshiriladi?
-+ Topografik ishlar, o’lka geologik tuzilishini, relefi va foydali qazilmalarini, o’lka iqlimini, ichki suvlarini o’rganish
-- O’lkaning geografik joylashuvi, o’lka aholisi, o’lka iqlimini o’rganish
-- O’lka tabiiy boyliklari, o’lka iqlimi, o’lka transportini o’rganish
-- O’lka xo’jaligining rivojlanish tarixini, ichki suvlarini, o’lka qishloq xo’jaligini o’rganish
-?Geografik qobiq yana qanday kattalikdagi tabiiy hududiy komplekslarga bo’linib ketadi?
-+ Materiklar va okeanlar, tabiiy geografik o’lkalar va provintsiyalar, zonalar
-- Qit’alar, tumanlar, viloyatlar, landshaft, zonalar
-- Materiklar va okeanlar, landshaftlar, mamlakatlar, oblastlar
-- Tabiiy geografik rayonlar, zonalar, mamlakatlar
+?Tabiiy-geografik rayonlashtirishning maqsadi nima?
+-Tabiiy-geografik komplekslarni klassifikatsiya qilish
+-Tabiiy resurslardan foydalangan holda iqtisodiy strategiyalarni ishlab chiqish
++Tabiiy geografik komplekslarni ajratish, kartaga tushirish va baholash
+-Tabiiy-geografik komplekslar modellarini tayyorlash
+?Tabiiy-geografik rayonlashtirishning vazifalari qanday?
+-Faqat geomorfologik xususiyatlarni o‘rganish
++Tabiiy-geografik komplekslarning tarkibini chuqur o‘rganish
+-Tabiiy-geografik komplekslarni faqat nazariy jihatdan o‘rganish
+-Tabiatdagi komplekslar faqat bir xil shakllanadi
+?Kompleks tabiiy-geografik rayonlashtirish qanday bo‘lishi mumkin?
+-Faqat geomorfologik rayonlashtirish
+-Faqat iqlimiy rayonlashtirish
++Tabiiy geografik komponentlarning o‘zaro aloqalari va ta’sirlari natijasida ajratish
+-Faqat geobotanik rayonlashtirish
+?Tabiiy-geografik rayonlashtirishning ilmiy va amaliy farqlari qanday?
+-Ilmiy rayonlashtirish faqat nazariy ishlarga qaratilgan
++Ilmiy rayonlashtirish ilmiy asosda komplekslarni o‘rganish va tasniflashni o‘z ichiga oladi, amaliy esa real hayotda qo‘llaniladi
+-Amaliy rayonlashtirish faqat bilimlarni ommalashtirish bilan bog‘liq
+-Ilmiy va amaliy rayonlashtirish farqsiz bir xil
+?Tabiiy-geografik rayonlashtirishda qanday harakatlar amalga oshiriladi?
+-Faqat iqlimiy o‘zgarishlarni tahlil qilish
+-Faqat geobotanik yirik tasniflash
++Tabiiy-geografik kartalarni tuzish va hududlarni ajratish
+-Faqat tarixiy ma’lumotlar bilan ishlash
+?Kompleks tabiiy-geografik rayonlashtirishda qanday asosiy ishlar bajariladi?
++Hududlar o‘rtasidagi tabiiy-geografik farqlarni aniqlash
+-Tabiiy resurslarni faqat iqtisodiy nuqtai nazardan baholash
+-Sanitar va ekologik nazoratni o‘rnatish
+-Tabiiy-geografik komplekslarni faqat xarita yordamida aniqlash
+?Tabiiy-geografik rayonlashtirishning asosiy maqsadlari nimalardan iborat?
++Tabiiy-geografik komplekslarni aniqlash va ularning tuzilishini o‘rganish
+-Sinfiy iqlim o‘zgarishlarini baholash
+-Kosmik tizimlarni sinovdan o‘tkazish
+-Tabiiy resurslar bilan ishlashning iqtisodiy jihatlarini o‘rganish
+?Tabiiy-geografik rayonlashtirishda qanday usullar qo‘llaniladi?
+-Faqat statistik tahlil
+-Faqat matematik modellashtirish
++Dialektik materializm metodlari va kompleks tahlil
+-Faqat ekstensiv tahlil
+?Tabiiy-geografik rayonlashtirishda qanday komplekslar ajratiladi?
++Geomorfologik, iqlimiy, geobotanik va boshqa komplekslar
+-Faqat geobotanik komplekslar
+-Faqat iqlimiy komplekslar
+-Faqat iqtisodiy komplekslar
+?Tabiiy-geografik rayonlashtirishning ilmiy ahamiyati nimada?
+-Faqat ilmiy tadqiqotlarda qo‘llanadi
++Tabiatdagi o‘zgarishlar va tabiat resurslaridan oqilona foydalanish imkoniyatini yaratadi
+-Sinfiy va ijtimoiy nuqtai nazardan qo‘llaniladi
+-Tabiiy resurslarni faqat iqtisodiy tahlil qilishda qo‘llaniladi

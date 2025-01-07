@@ -1,45 +1,54 @@
-import { Link } from 'react-router-dom';
-import './Home.css';
+import { Link } from "react-router-dom";
+import "./Home.css";
 
 const Home = () => {
   return (
     <div className="home-container">
       {/* Hero Section */}
       <section className="hero">
-        <h1 className="hero-title">O&apos;lkashunoslik va Mintaqaviy Tadqiqotlar</h1>
+        <h1 className="hero-title">Tabiiy Geografik Rayonlashtirish</h1>
         <p className="hero-subtitle">
-          Hududlarning tabiati, ijtimoiy-iqtisodiy rivojlanishi va madaniy boyliklarini kashf eting!
+          Hududlarning tabiiy sharoiti, iqtisodiy imkoniyatlari va ekologik
+          muvozanatini o&apos;rganing!
         </p>
       </section>
 
       {/* Navigation Section */}
       <nav className="nav-section">
         <Link to="/materials" className="nav-card">
-          <h2>Ma&apos;ruza</h2>
-          <p>Geografik materiallar va hududlarni o&apos;rganish bo&apos;yicha batafsil ma&apos;lumotlar.</p>
+          <h2>Materiallar</h2>
+          <p>
+            Tabiiy geografik rayonlashtirish bo&apos;yicha ilmiy va amaliy
+            materiallar.
+          </p>
         </Link>
         <Link to="/tests" className="nav-card">
           <h2>Testlar</h2>
-          <p>Bilimingizni tekshirish uchun qiziqarli testlar.</p>
+          <p>Mavzu bo&apos;yicha bilimlaringizni sinab ko&apos;ring.</p>
         </Link>
         <Link to="/resources" className="nav-card">
-          <h2>Manbalar</h2>
-          <p>Qo&apos;shimcha materiallar va manbalar bilan tanishing.</p>
+          <h2>Resurslar</h2>
+          <p>
+            Qo&apos;shimcha manbalar va interaktiv o&apos;quv materiallari bilan
+            tanishing.
+          </p>
         </Link>
       </nav>
 
       {/* Information Section */}
       <section className="info-section">
         <div className="info-content">
-          <h2>O&apos;lkashunoslikning Ahamiyati</h2>
+          <h2>Rayonlashtirishning Muhimligi</h2>
           <p>
-            O&apos;lkashunoslik orqali hududlarning tabiiy resurslari, iqtisodiy imkoniyatlari va madaniy
-            boyliklari haqida kengroq ma&apos;lumot olish imkoniyatiga ega bo&apos;lasiz.
+            Tabiiy geografik rayonlashtirish hududlarning iqlim, tuproq, suv
+            resurslari va bioxilma-xillikni chuqurroq o&apos;rganish imkonini beradi.
+            Bu bilimlar hududlarning ekologik muvozanatini saqlash va ulardan
+            samarali foydalanishga yordam beradi.
           </p>
         </div>
         <img
-          src="/uzbekistan-landscape.webp"
-          alt="Uzbekistan Landscape"
+          src="/geographic-regions.webp"
+          alt="Geographic Regions"
           className="info-image"
         />
       </section>

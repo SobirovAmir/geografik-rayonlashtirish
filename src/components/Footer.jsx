@@ -4,7 +4,7 @@ import './Footer.css';
 const Footer = () => {
   return (
     <footer className="bottom-footer">
-      <p>Mualliflar: <strong>Abbasov Subxon Burxonovich, Sabirova Nilufar Tairovna</strong></p>
+      <p>Muallif: <strong>Abbasov Subxon Burxonovich</strong></p>
       <p>© 2024. Barcha xuquqlar himoyalangan.</p>
     </footer>
   );

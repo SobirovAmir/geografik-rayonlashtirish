@@ -1,55 +1,50 @@
-?Al – Xorazmiyning geografiya va boshqa fanlarga oid bo‘lgan asarlaridan qanchasi bizgacha yetib kelgan?
-+10 tasi
--20 tasi
--30 tasi
--50 ga yaqini
-?Qaysi olimning geografik asarlari O‘rta asrlardagi eng birinchi geografik asar hisoblangan?
-+Al-Xorazimiy
--Ahmad al-Farg‘oniy
--Abu Rayhon Beruniy
--Abu Ali ibn Sino
-?Qaysi olimning 1200 yillik tavalludi munosabati bilan 1983 yili YUNESKO ning qaroriga muvofiq uning yubileyi dunyo miqyosida nishonlangan?
-+Al-Xorazimiy
--Mirzo Ulug‘bek
--Abu Rayhon Beruniy
--Zahiriddin Muhammad Bobur
-?Qaysi alloma Iroqning Bag‘dod shahridagi “Donolar uyi”da ilmiy ijod bilan shug‘ullangan?
-+Ahmad al-Farg‘oniy
--Abu Nasr Farobiy
--Abu Rayhon Beruniy
--Al-Xorazimiy
-?“Madhal an-njum” (Astronomiyaga kirish) asarini qaysi allomaga tegishli?
-+Ahmad al-Farg‘oniy
--Ali Qushchi
--Mirzo Ulug‘bek
--Abu Rayhon Beruniy
-?Qaysi alloma “Sharq Arastusi” nomini olgan?
-+Abu Nasr Farobiy
--Ahmad al-Farg‘oniy
--Abu Rayhon Beruniy
--Al-Xorazimiy
-?“Ilmlarning kelib chiqishi va tavsifi” (“Kitob fi-ixso al-ulum va at-ta’rif”) kimning asari?
-+Abu Nasr Farobiy
--Mirzo Ulug‘bek
--Abu Rayhon Beruniy
--Maxmud Qashg‘ariy
-?Modda fazoda ham, vaqtda ham cheklanmagan, intiqosiz degan fikrni kim aytgan?
-+Abu Nasr Farobiy
--Al-Xorazimiy
--Abu Rayhon Beruniy
--Mirzo Ulug‘bek
-?Beruniyning geografiya fani uchun ahamiyatli bo‘lgan qaysi asari unga juda katta shuhrat keltirgan?
-+“Osori al-boqiya”
--“Geodeziya”
--“Kartografiya”
--“Hindiston”
-?Ibn Sino minerallar haqida fikr yuritib, ularni necha guruhga ajratgan?
-+4 guruhga
--3 guruhga
--2 guruhga
--6 guruhga
-?Ulug‘bek “Ziji jadidi Ko‘ragoniy” asarida Turkistondagi qaysi shaharlarning ham geografik koordinatalarini aniqlagan?
-+Samarqand, Buxoro, Xo‘jand, O‘sh
--Buxoro, Marv, Ostona, Samarqand
--Xo‘jand, Dushanbe, Buxoro, Marv
--Islomobod, Samarqand, O‘sh, Xo‘jand
+?Zonal prinsip nima?
+-Tabiiy-geografik komplekslarni ajratishda faqat tabiiy jarayonlarni hisobga olish
++Erning shakli va Quyoshga nisbatan joylashuviga asoslangan issiqlik mintaqalarining tarqalishi
+-Tabiatni faqat geologik shakllanishiga asoslanib tahlil qilish
+-Tabiatning faqat biologik xususiyatlarini o‘rganish
+?Provinsial prinsip qanday ishlaydi?
+-Faqat bir xil tabiiy sharoitlarda joylashgan hududlarni ajratadi
++Muayyan hududning tabiiy-geografik xususiyatlariga asoslanadi
+-Faqat geologik omillarni hisobga oladi
+-Iqlimiy o‘zgarishlarni inobatga olmaydi
+?Zonal-provinsial prinsip qanday prinsipni anglatadi?
++Zonal va provinsial xususiyatlarni birlashtiradi
+-Sadece zonal xususiyatlarni hisobga oladi
+-Faqat iqlimiy omillarni hisobga oladi
+-Sadece biologik turdagi xususiyatlar hisobga olinadi
+?Genetik prinsipning mohiyati nima?
++Hududning tarixiy taraqqiyoti va tabiiy-geografik komplekslarning shakllanish jarayonini o‘rganish
+-Sadece hozirgi sharoitlarni hisobga oladi
+-Faqat zonal xususiyatlarni inobatga oladi
+-Iqlim o‘zgarishlarini e’tiborga olmaydi
+?Zonal-provinsial-geneetik prinsip nima?
++Zonal, provinsial va genetik xususiyatlarni birlashtiradi
+-Faqat zonal va provinsial xususiyatlarga asoslanadi
+-Sadece genetik xususiyatlarni hisobga oladi
+-Faqat tabiiy jarayonlarni hisobga oladi
+?Komplekslilik prinsipining mazmuni nima?
++Landshaft komponentlarining farqlarini hisobga olib, tabiiy-geografik hududni o‘rganish
+-Faqat ekologik xususiyatlarni inobatga olish
+-Sadece geologik xususiyatlarga asoslanadi
+-Faqat biologik jarayonlarni hisobga olish
+?Zonal prinsipida asosiy e’tibor nima?
++Issiqlik mintaqalarining tarqalishiga va erning Quyoshga nisbatan joylashuviga qaraladi
+-Faqat balandlik zonaligi hisobga olinadi
+-Sadece iqlimiy xususiyatlarga asoslanadi
+-Biologik muhitning o‘zgarishlariga asoslanadi
+?Provinsial prinsip qaysi omillarga asoslanadi?
++Hududning tabiiy-geografik xususiyatlari va ularning o‘ziga xosligini hisobga oladi
+-Sadece iqlimiy xususiyatlarni inobatga oladi
+-Faqat reliefiga asoslanadi
+-Bioevolyutsiya omillarini hisobga olmaydi
+?Genetik prinsipni qanday qo‘llash mumkin?
++Hududning tarixiy rivojlanishini o‘rganib, tabiiy-geografik jarayonlarni tahlil qilish
+-Faqat hozirgi davrdagi tabiiy jarayonlarni o‘rganish
+-Sadece iqlimiy xususiyatlarni tahlil qilish
+-Faqat ekologik muhitni o‘rganish
+?Komplekslilik prinsipida qanday xususiyatlar hisobga olinadi?
++Landshaft tuzilmasi, balandlik zonaligi, azonal xususiyatlar va odamlarning ta’siri
+-Faqat zonallik va iqlimiy omillarni hisobga olish
+-Sadece geologik tuzilmani inobatga olish
+-Faqat ekologik xususiyatlarni hisobga olish

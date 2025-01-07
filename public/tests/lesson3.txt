@@ -1,50 +1,50 @@
-?O‘lkashunoslik necha turga bo‘linadi?
-+3
--2
--4
--5
-?Qishloq, ovul, qo‘rg‘on, tuman, shahar, viloyat hududidagi tarixiy obidalarni saqlash ishlari o‘lkashunoslikning qaysi turiga mansub?
-+Jamoat
--Maktab
--Tarixiy
--Ilmiy yoki davlat
-?Sfragistlar kimlar?
-+Muhrlarni o‘rganuvchilar
--Gerblarni o‘rganuvchilar
--Tangalarni o‘rganuvchilar
--Sopol buyumlarini o‘rganuvchilar
-?Geraldistlar kimlar?
-+Tamg‘a (gerb) larni o‘rganuvchilar
--Muhrlarni o‘rganuvchilar
--Tangalarni o‘rganuvchilar
--Sopol buyumlarini o‘rganuvchilar
-?Epigrafistlar kimlar?
-+Tosh, metall, sopol va yog‘och buyumlarni o‘rganuvchilar
--Tamg‘a (gerb) larni o‘rganuvchilar
--Muhrlarni o‘rganuvchilar
--Tangalarni o‘rganuvchilar
-?Tanga pullarini o‘rganuvchilar kimlar deb ataladi?
-+Numizmatlar
--Geraldistlar
--Epigrafistlar
--Sfragistlar
-?Numizmatlar, sfragistlar, geraldistlar, epigrafistlar o‘lkashunoslikning qaysi turiga mansub?
-+Jamoat o‘lkashunosligi
--Ilmiy o‘lkashunoslik
--Maktab o‘lkashunosligi
--Davlat o‘lkashunosligi
-?Maktab geografiya o‘lkashunosligi mazmuniga ko‘ra necha qismga bo‘linadi?
-+2
--3
--4
--5
-?O‘lkashunoslik mazmuniga ko‘ra necha guruhga ajratiladi?
-+2 guruhga
--3 guruhga
--4 guruhga
--5 guruhga
-?O‘quv o‘lkashunosligi oldida nechta muhim vazifa turadi?
-+2 ta
--4 ta
--6 ta
--8 ta
+?Komplekslilik prinsipida qanday xususiyatlar hisobga olinadi?
++Landshaft tuzilmasi, balandlik zonaligi, azonal xususiyatlar va odamlarning ta’siri
+-Faqat zonallik va iqlimiy omillarni hisobga olish
+-Sadece geologik tuzilmani inobatga olish
+-Faqat ekologik xususiyatlarni hisobga olish
+?Tabiiy-geografik rayonlashtirishda yuqoridan pastga qarab qanday metod qo‘llaniladi?
+-Yirik tabiiy-geografik komplekslardan mayda komplekslarni ajratish
++Mayda komplekslardan yiriklarini ajratish
+-Tabiiy-geografik omillarni tahlil qilish
+-Faqat iqlimiy xususiyatlar asosida ajratish
+?Quyidan pastdan yuqoriga qarab rayonlashtirishda qanday usul qo‘llanadi?
++Yirik tabiiy-geografik komplekslar asosida maydonlar ajratiladi
+-Mayda tabiiy-geografik komplekslar asosida yirik komplekslar ajratiladi
+-Faqat tabiiy-geografik komponentlarni ajratish
+-Tabiiy-geografik komplekslarning tarixiy rivojlanishini o‘rganish
+?Kompleks belgilari va geografik komponentlarning o‘zaro bog‘liqligi qanday tahlil qilinadi?
++Tabiiy-geografik birliklarni komponentlarining shakllanishidagi ishtirokiga asoslanib
+-Faqat ekologik omillarni hisobga olish
+-Tabiatning faqat geologik shakllanishiga asoslanib
+-Faqat biologik xususiyatlarini o‘rganish
+?Landshaft-tipologik rayonlashtirish metodining asosiy xususiyati nima?
++Yirik masshtabdagi landshaftlarni tahlil qilish
+-Geofizik va geoximik usullarni qo‘llash
+-Geografik komponentlarning alohida turlarga ajratilishi
+-Tabiiy-geografik hududning kompleks belgilarini o‘rganish
+?Kosmik fotos‘emkalar yordamida qanday jarayonlarni aniqlash mumkin?
++Yirik hududlar orasidagi tabiiy hodisalar o‘rtasidagi sabab-oqibat munosabatlari
+-Faqat iqlimiy jarayonlarni
+-Faqat ekologik o‘zgarishlarni
+-Tabiiy-geografik komplekslarning shakllanishidagi o‘zgarishlarni
+?Geoximik metod tabiiy-geografik rayonlashtirishda nima uchun qo‘llaniladi?
++Kompleks tarkibida kimyoviy elementlarning to‘planishi va chiqib ketishini aniqlash
+-Faqat landshaft komponentlarini ajratish
+-Iqlimiy omillarni tahlil qilish
+-Tabiiy jarayonlar bilan kishilarning faoliyatini solishtirish
+?Tabiiy-geografik komplekslarning shakllanishiga nimalar ta’sir ko‘rsatadi?
++Tabiiy omillar, odamlarning faoliyati, iqlim va geologik jarayonlar
+-Faqat odamlarning faoliyati
+-Faqat iqlimiy omillar
+-Faqat geologik jarayonlar
+?Landshaftni tasniflashda qanday omillar asosiy ahamiyatga ega?
+-Faqat balandlik va zonallik
++Iqlim, tuproq, o‘simlik va hayvonot dunyosi, geologik tuzilma
+-Faqat geologik tuzilma
+-Faqat ekologik omillar
+?Tabiiy-geografik hududlarning turlarini ajratishda qanday metod qo‘llaniladi?
+-Faqat antropogen omillarni hisobga olish
+-Faqat iqlimni tahlil qilish
++Komponentlar o‘rtasidagi o‘zaro bog‘lanishni tahlil qilish
+-Faqat geologik xususiyatlar

@@ -24,8 +24,8 @@ const Header = () => {
     <header className="header">
       <div className="logo-container">
         <NavLink to="/" className="logo">
-          <img src="/Logo.png" alt="Logo" />
-          <span className="logo-text">O&apos;lkashunoslik</span>
+          <img src="/logo.png" alt="Logo" />
+          <span className="logo-text">TGR</span>
         </NavLink>
       </div>
       <nav className="nav">

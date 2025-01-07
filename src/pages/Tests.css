@@ -5,13 +5,15 @@
   background-attachment: fixed;
   color: #ffffff;
   text-align: center;
-  min-height: calc(100vh - 50px);
+  min-height: calc(100vh - 58px);
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   padding: 20px;
 }
-
+.additional-section {
+  margin-top: 50px !important;
+}
 /* Список тестов */
 .test-list ul {
   list-style: none;

@@ -10,12 +10,13 @@ body {
 
 .testspage {
   max-width: 800px;
-  margin: 20px auto;
+  margin: 10px auto;
   padding: 20px;
+  padding-top: 60px;
   border-radius: 10px;
   background: #ffffff;
   overflow-y: auto;
-  height: calc(100vh - 90px);
+  height: calc(100vh - 58px);
   -ms-overflow-style: none;  
   scrollbar-width: none;  
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);

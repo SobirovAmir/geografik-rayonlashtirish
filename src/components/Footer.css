@@ -1,27 +1,23 @@
 /* Footer.css */
 .bottom-footer {
+  font-family: "Work Sans", sans-serif;
   padding: 20px;
-  color: white;
+  color: #fff;
   font-size: 1rem;
-  background: linear-gradient(
-    90deg,
-    #000428,
-    #004e92
-  ); /* Космический градиент */
+  background: rgba(0, 0, 0, 0.3); /* Полупрозрачный фон */
+  backdrop-filter: blur(10px); /* Эффект размытия заднего фона */
   text-align: center;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
-  border-top: 1px solid #00aaff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Легкая тень для стеклянного эффекта */
+  border-top: 1px solid rgba(255, 255, 255, 0.3); /* Легкая прозрачная граница */
   position: relative;
-  position: static;
   bottom: 0;
   right: 0;
   width: 100%;
+  padding: 10px; 
 }
 
-
 .bottom-footer strong {
-  font-weight: bold;
-  color: #00aaff; /* Цвет для выделения текста */
+  color: #ffffff; /* Белый цвет для выделенного текста */
 }
 
 .bottom-footer a {
@@ -31,13 +27,13 @@
 }
 
 .bottom-footer a:hover {
-  color: #00aaff; /* При наведении на ссылку — цвет изменяется */
+  color: #8bc34a; /* Зеленый цвет при наведении на ссылку */
 }
 
 .bottom-footer .social-icons {
   display: flex;
   justify-content: center;
-  gap: 1rem;
+  gap: 1.5rem;
   margin-top: 10px;
 }
 
@@ -48,17 +44,17 @@
 
 .bottom-footer .social-icons a:hover {
   transform: scale(1.2);
-  color: #00aaff;
+  color: #8bc34a; /* Зеленый цвет при наведении на иконки */
 }
 
 /* Responsive Design for Footer */
 @media (max-width: 768px) {
   .bottom-footer {
-    padding: 15px;
+    padding: 20px;
     font-size: 0.9rem;
   }
 
   .bottom-footer .social-icons {
-    gap: 0.8rem;
+    gap: 1rem;
   }
 }
