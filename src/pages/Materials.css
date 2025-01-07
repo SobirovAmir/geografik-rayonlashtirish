@@ -4,7 +4,7 @@
 .materials-container {
   color: #fff;
   padding: 50px 20px;
-  min-height: calc(100vh - 60px);
+  min-height: calc(100vh);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -19,6 +19,7 @@
 .title {
   font-size: 3rem;
   color: #f39c12;
+  margin-top: 30px;
   text-transform: uppercase;
   margin-bottom: 40px;
   animation: slideIn 0.5s ease-out;

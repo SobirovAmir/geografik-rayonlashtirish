@@ -9,7 +9,7 @@
   backdrop-filter: blur(10px); /* Эффект размытия заднего фона */
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* Легкая тень */
   border-bottom: 1px solid rgba(255, 255, 255, 0.3); /* Легкая прозрачная граница */
-  position: sticky;
+  position: fixed;
   top: 0;
   left: 0;
   right: 0;

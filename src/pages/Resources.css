@@ -3,7 +3,7 @@
   color: #f0f8ff;
   text-align: center;
   padding: 30px 20px;
-  min-height: calc(100vh - 50px);
+  min-height: calc(100vh);
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -41,7 +41,8 @@
 }
 
 .resource-item {
-  margin: 10px;
+  margin: 40px 10px;
+
 }
 
 .resource-link {
