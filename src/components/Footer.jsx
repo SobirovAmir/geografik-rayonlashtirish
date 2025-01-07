@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className="bottom-footer">
       <p>Muallif: <strong>Abbasov Subxon Burxonovich</strong></p>
-      <p>© 2024. Barcha xuquqlar himoyalangan.</p>
+      <p>© 2024. Barcha huquqlar himoyalangan.</p>
     </footer>
   );
 };
