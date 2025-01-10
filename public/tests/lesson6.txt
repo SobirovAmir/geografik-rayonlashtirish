@@ -1,0 +1,50 @@
+?Tabiiy geografik rayonlashtirish nima?  
++Hududlarni tabiat xususiyatlariga qarab ajratish jarayoni  
+-Yer osti boyliklarini aniqlash usuli  
+-Iqlimni o‘rganishning yagona usuli  
+-Faqat iqtisodiy rayonlash tizimi  
+?Tabiiy geografik rayonlashtirishning asosiy amaliy ahamiyati nimada?  
++Xalq xo‘jaligi sohalarini ixtisoslashtirish va tabiiy boyliklardan oqilona foydalanish  
+-Faqat ilmiy izlanishlarni osonlashtirish  
+-Yer usti suvlarini nazorat qilish  
+-Iqlimiy zonalarni aniqlash  
+?Tabiiy geografik rayonlashtirishning qaysi uslubi kartografiyaga asoslangan?  
++Kartografik uslub  
+-Turli xaritalarni taqqoslash uslubi  
+-Landshaft komplekslarini o‘rganish usuli  
+-Xarakterli landshaftlarni aniqlash  
+?L. N. Babushkin va N. A. Kogay O‘zbekistonni tabiiy geografik rayonlashtirishda qaysi tizimni qo‘llagan?  
++Provinsiya – provinsiyacha – okrug – rayon – landshaft  
+-Hudud – rayon – landshaft – iqlim zonasi  
+-Mintaqa – sektor – subrayon – landshaft  
+-Xarita – landshaft – hudud – iqlim  
+?O‘zbekiston hududining qaysi qismi Turon provinsiyasiga kiradi?  
++Asosiy qismi  
+-Faqat tog‘li hududlar  
+-Faqat tekisliklar  
+-Faqat Ustyurt platosi  
+?O‘zbekiston tabiiy geografik rayonlashtirilganda tog‘ va tekisliklar qanday ajratiladi?  
++Tog‘ oldi allyuvial tekisliklarning quyi qismi orqali  
+-Tuproq rangi asosida  
+-Faqat relyef balandligi orqali  
+-Iqlim farqlari bo‘yicha  
+?O‘zbekistonning tekislik provinsiyachasi qaysi okruglarni o‘z ichiga oladi?  
++Ustyurt, Quyi Amudaryo, Qizilqum, Quyi Zarafshon  
+-Toshkent-Mirzacho‘l, Farg‘ona, Qashqadaryo, Surxondaryo  
+-Hisor-Zarafshon, Bobotog‘, G‘arbiy Tyanshan  
+-Turkiston-Nurota, Markaziy Qozog‘iston  
+?Tabiiy geografik rayonlashtirishda landshaftlarni ajratishda nimalarga e’tibor qaratiladi?  
++Reliefning genetik xususiyatlariga va tuproq-o‘simlik turlariga  
+-Faqat tuproqning tarkibiga  
+-Faqat o‘simliklarning tarqalishiga  
+-Iqlim farqlari va tuproq tarkibiga  
+?L. N. Babushkin va N. A. Kogay rayonlashtirish tizimida qanday birliklar keltirilgan?  
++Mamlakat (o‘lka), provinsiya, provinsiyacha, okrug, rayon, landshaft  
+-Mintaqa, sektor, subrayon, landshaft  
+-Faqat okrug va landshaft  
+-Tuproq zonalari va landshaftlar  
+?O‘zbekiston hududi tabiiy geografik rayonlashtirishda nechta provinsiyachaga ajratiladi?  
++Ikki: tekislik va tog‘ oldi-tog‘ provinsiyalari  
+-Uch: tog‘, tekislik va allyuvial hududlar  
+-Besh: Ustyurt, Quyi Amudaryo, Qizilqum, Quyi Zarafshon va Farg‘ona  
+-Faqat Turon va Markaziy Qozog‘iston provinsiyalari  

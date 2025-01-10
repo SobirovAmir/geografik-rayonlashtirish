@@ -1,59 +1,46 @@
-?Tabiiy-geografik komplekslarning shakllanishiga nimalar ta’sir ko‘rsatadi?
-Tabiiy omillar, odamlarning faoliyati, iqlim va geologik jarayonlar
-Faqat odamlarning faoliyati
-Faqat iqlimiy omillar
-Faqat geologik jarayonlar
-Landshaftni tasniflashda qanday omillar asosiy ahamiyatga ega?
+?Tabiiy-geografik rayonlashtirishda kartalardagi chegaralar qanday chiziqlar yordamida belgilanadi?  
+-Quyuq va zich chiziqlar bilan faqat aniq chegaralar belgilanadi  
++Quyuq qalin chiziqlar bilan aniq, punktir chiziqlar bilan shartli chegaralar belgilanadi  
+-Faqat rangli hududlarni belgilash orqali ko‘rsatiladi  
+-Faqat raqam va harflar indekslari bilan belgilanadi  
+?Tabiiy-geografik hududlarning turlarini ajratishda qanday metod qo‘llaniladi?  
+-Faqat antropogen omillarni hisobga olish  
+-Faqat iqlimni tahlil qilish  
++Komponentlar o‘rtasidagi o‘zaro bog‘lanishni tahlil qilish  
+-Faqat geologik xususiyatlar  
+?Tabiiy-geografik chegaralar nima bilan belgilanadi?  
++Turli komplekslar tuzilishining sifat jihatidan almashinish chizig‘i bilan  
+-Faqat iqlim ko‘rsatkichlari bilan  
+-Faqat tuproq xususiyatlari bilan  
+-Faqat inson faoliyati bilan  
+?Taksonomik birliklarga ajratishning asosiy talablari qaysilar?  
++Asosiy tarqalishini aks ettirish, mantiqan qonuniy bo‘lishligi, tizimdagi o‘rinni belgilash  
+-Faqat komponentlar rolini hisobga olish  
+-Faqat miqdoriy ko‘rsatkichlar bilan cheklanish  
+-Tarixiy jarayonlarni hisobga olish  
+?Tabiiy-geografik chegaralarning uch turi qanday?  
++Bo‘shliqda o‘tkazilgan, vaqtincha o‘tkazilgan, komponentlar o‘rtasidagi chegaralar  
+-Faqat geologik, geomorfologik va gidrologik chegaralar  
+-Tuproq va iqlimiy chegaralar  
+-Barcha holatlarda umumiy chiziqlar  
+?Tabiiy-geografik klassifikatsiyada nimalar hisobga olinadi?  
++Komplekslarning miqdor va sifat belgilarini hisobga olish  
+-Faqat landshaft tuzilmalari  
+-Faqat kartografik belgilar  
+-Faqat tarixiy omillar  
+?Tabiiy geografik chegaralar inson faoliyati natijasida qanday o‘zgaradi?  
+-Doimiy o‘zgarishlarsiz qoladi  
++Tabiiy va xo‘jalik faoliyati natijasida o‘zgaradi  
+-Tashqi ta’sirlar bilan mutlaqo bog‘liq emas  
+-Faqat tabiat qonuniyatlariga asoslanadi  
+?Analitik kartalarning xususiyati nima?  
++Hududiy birliklarning mazmunini ochib beradi  
+-Faqat rangli tasvirlarda ko‘rsatiladi  
+-Tabiiy komplekslarni faqat oddiy qilib ko‘rsatadi  
+-Barcha komponentlar faqat indeks bilan beriladi  
+?Shartli chegaralarning asosiy muammosi nima?  
+-Faqat tuproqning o‘rganilish darajasiga bog‘liq  
+-Faqat inson omillariga asoslangan  
++Asoslovchi aniq dalillarning kamligi  
+-Har doim to‘g‘ri belgilanishi  
 
-Faqat balandlik va zonallik
-Iqlim, tuproq, o‘simlik va hayvonot dunyosi, geologik tuzilma
-Faqat geologik tuzilma
-Faqat ekologik omillar
-Tabiiy-geografik hududlarning turlarini ajratishda qanday metod qo‘llaniladi?
-
-Faqat antropogen omillarni hisobga olish
-Faqat iqlimni tahlil qilish
-Komponentlar o‘rtasidagi o‘zaro bog‘lanishni tahlil qilish
-Faqat geologik xususiyatlar
-Tabiiy-geografik rayonlashtirishda chegaralarni qanday metod bilan aniqlash kerak?
-
-Mantiqan to‘g‘ri chegaralar orqali
-Faqat kartalar asosida
-Faqat tarixiy ma’lumotlarga tayanib
-Yalpi taxminlar asosida
-Tabiiy-geografik komplekslarni tasniflashda N.I. Mixaylov tomonidan ta’kidlangan uch asosiy talab nima?
-
-Geokomplekslarning qonunlarini aks ettirish, mantiqan qonuniy bo‘lish, o‘rnini to‘g‘ri belgilash
-Faqat mantiqan qonuniy bo‘lish
-Faqat geokomplekslarning qonuniyatlari
-Faqat o‘rnini to‘g‘ri belgilash
-Tabiiy-geografik rayonlarning chegaralari qanday o‘zgargan bo‘lishi mumkin?
-
-Insonlarning xo‘jalik faoliyati ta’sirida
-Faqat tabiiy omillar ta’sirida
-Faqat iqlim o‘zgarishlari ta’sirida
-Faqat geologik jarayonlar ta’sirida
-Tabiiy-geografik chegaralarning qanday turlari mavjud?
-
-Bo‘shliqda o‘tkazilgan, vaqtincha o‘tkazilgan, komponentlar o‘rtasida o‘tkazilgan
-Faqat bo‘shliqda o‘tkazilgan
-Faqat vaqtincha o‘tkazilgan
-Faqat komponentlar o‘rtasida o‘tkazilgan
-Rayonlashtirishda kartalarda qanday chiziqlar tabiiy-geografik chegaralarni belgilashda ishlatiladi?
-
-Qalin chiziqlar aniq chegaralar, punktir chiziqlar shartli chegaralar uchun
-Yalpi chiziqlar
-Yalpi chiziqlar va nuqtalar
-Faqat nuqtalar
-Tabiiy-geografik komplekslarni kartada tasvirlashda qanday turdagi kartalar tuziladi?
-
-Topologik, analitik, sintetik kartalar
-Faqat analitik kartalar
-Faqat topologik kartalar
-Faqat sintetik kartalar
-Tabiiy-geografik rayonlashtirishda kartalarda aniq va shartli chegaralar qanday farqlanadi?
-
-Aniq chegaralar quyuq chiziq bilan, shartli chegaralar punktir chiziq bilan belgilangan
-Ikki turi ham bir xil tarzda belgilanadi
-Faqat aniq chegaralar belgilanadi
-Faqat shartli chegaralar belgilanadi

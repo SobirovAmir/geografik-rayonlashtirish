@@ -1,0 +1,50 @@
+?Yer yuzida geografik zonallikni yuzaga keltiruvchi asosiy omil nima?  
++Kosmik va sayyora sabablari  
+-Yerning ichki kuchlari ta'siri  
+-Yerning geologik tuzilishi  
+-Okeanlarning ta'siri  
+?Landshaft komplekslarini shakllantiruvchi ikki asosiy energiya manbai qaysi?  
++Quyosh energiyasi va Yerning ichki energiyasi  
+-Shamol va yog‘ingarchilik  
+-Eroziya va tektonik jarayonlar  
+-Magnit maydon va vulqon faolligi  
+?Iqlimiy zonalarni shakllantiruvchi asosiy havo massalari qaysi?  
++Arktik, mo‘tadil, tropik va ekvatorial  
+-Qutbiy, subtropik, kontinental va dengiz  
+-Arktik, subarktik, okeanik va tog‘li  
+-Tropik, mo‘tadil, cho‘l va qutbiy  
+?Namlanish koeffitsienti nimani aks ettiradi?  
++Yillik yog‘ingarchilik miqdori va bug‘lanish o‘rtasidagi farqni  
+-O‘rtacha yillik havo haroratini  
+-Yer osti suvlarining mineralizatsiya darajasini  
+-Landshaft zonalarining maydonini  
+?Nima uchun maksimal haroratlar ekvatorda emas, balki tropiklarda kuzatiladi?  
++Ekvatorda kamroq bulutlilik va intensiv bug‘lanish sababli  
+-Okeanlarga yaqinligi sababli  
+-Tropiklarda ko‘proq quyosh radiatsiyasi sababli  
+-Kuchli shamollar sababli  
+?Geokimyoviy jarayonlarning zonallikni aniqlovchi jarayonlari qaysilar?  
++Quyosh energiyasi miqdori va suv mavjudligi  
+-Fizik parchalanuv va eroziya  
+-Vulqon faolligi va bosim  
+-Yer magnit maydonining tebranishlari  
+?Qaysi iqlimiy zona maksimal namlanish darajasi bilan ajralib turadi?  
++Ekvatorial  
+-Subtropik  
+-Arktik  
+-Mo‘tadil  
+?Turli iqlimiy zonalarda yer osti suvlarining mineralizatsiyasini nima aniqlaydi?  
++Yog‘ingarchilik va bug‘lanish miqdori  
+-Tuproq turi va relyef  
+-Geologik tuzilish  
+-Suvlarning joylashish chuqurligi  
+?Qaysi tabiiy zona yer osti suvlarining kam mineralizatsiya va yuqori organik to‘yinganligi bilan ajralib turadi?  
++Dasht  
+-Tundra  
+-Cho‘l  
+-Subtropik  
+?Quyosh radiatsiyasi zonallikni shakllantirishda qanday rol o‘ynaydi?  
++Barcha jarayonlarga ta’sir qiladi: iqlimiy, gidrologik, geokimyoviy va biologik  
+-Faqat havo haroratini aniqlaydi  
+-Ikkinchi darajali omil hisoblanadi  
+-Faqat iqlimiy zonalarni shakllantiradi  

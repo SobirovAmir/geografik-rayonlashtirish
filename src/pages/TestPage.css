@@ -1,7 +1,7 @@
 /* TestPage.css */
 
 body {
-  font-family: 'Arial', sans-serif;
+  font-family: "Arial", sans-serif;
   color: #333;
   margin: 0;
   padding: 0;
@@ -9,18 +9,17 @@ body {
 
 .testspage {
   max-width: 800px;
-  margin: 10px auto;
+  margin: 0 auto;
   padding: 20px;
-  padding-top: 60px;
   border-radius: 10px;
   overflow-y: auto;
-  height: calc(100vh);
-  -ms-overflow-style: none;  
-  scrollbar-width: none;  
+  min-height: 100vh;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
 }
 
 .testspage::-webkit-scrollbar {
-  display: none; 
+  display: none;
 }
 
 h1 {
@@ -77,25 +76,31 @@ h1 {
 .testspage-question input[type="radio"] {
   margin-right: 10px;
 }
-
+/* #root {
+  min-height: calc(100vh - 20px);
+} */
 .testspage-results {
   text-align: center;
-  margin: 20px auto;
   padding: 20px;
   border-radius: 8px;
-  background: #e8f5e9;
-  border: 1px solid #c8e6c9;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  min-height: calc(100vh - 58px);
+  display: flex;
+  align-items: center;
+  background: #00000050;
+  justify-content: center;
+  flex-direction: column;
 }
 
 .testspage-results h2 {
   font-size: 2em;
-  color: #2e7d32;
+  color: #ffffff;
 }
 
 .testspage-results p {
   font-size: 1.2em;
   margin: 10px 0;
+  color: #ffffff;
+  font-weight: bold;
 }
 
 .testspage-loader {
